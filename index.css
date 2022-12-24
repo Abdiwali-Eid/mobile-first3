@@ -1,0 +1,28 @@
+/* .container{
+    display: grid;
+    grid-gap: 15px; */
+  /* }
+  .header{ */
+    /* display: grid;
+    grid-column: auto; */
+    /* display: flex;
+    flex-direction: row; */
+  
+  /* .section{
+    display: grid;
+    grid-template-rows:repeat(3, 1fr); ;
+  } */
+
+  @media screen and (max-width: 600px) {
+    img{
+        border: 10px solid  white;
+       
+     }
+     *{
+        color: rgb(121, 136, 141);
+        font-family: Arial, Helvetica, sans-serif;
+        line-height: 1.4;
+    }
+   
+   }
+ 
